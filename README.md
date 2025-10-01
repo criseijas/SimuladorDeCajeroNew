@@ -80,5 +80,7 @@ Switch-case para manejo de menú.
 ---
 
 # 🧑‍💻 Autor
+
 Cristina Seijas
+
 Proyecto de práctica en Java — Simulador de Cajero Automático.
